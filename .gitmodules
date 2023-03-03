@@ -1,0 +1,3 @@
+[submodule "Flask-PyMongo"]
+	path = Flask-PyMongo
+	url = https://github.com/pydev2007/FlaskPymongo-Journey.git
